@@ -26,3 +26,18 @@
 # VARIABLES
 -	Variables allow you to store values
 -	A variable has a valid name the inbulit python cannot be used though they van be used by changing their names.
+
+# COMMENTS
+-	 Comments are useful to the users. They can be used for personal reference. 
+-	They can be used with a # and //
+
+```
+// PCEP tutorial
+```
+
+# INPUT
+-	The input statement is used to get the input from the user.
+- A program that doesn't has an input statement is called as a deaf program.
+```
+age = input("How old are you?")
+```
